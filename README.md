@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:DC2626&height=200&section=header&fontSize=42&fontColor=ffffff&animation=fadeIn&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Mr.Nobody" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:DC2626&height=200&section=header&fontSize=42&fontColor=ffffff&animation=fadeIn&text=Hi%20%F0%9F%91%8B%2C%20I'm%20YOUR-USERNAME" alt="header" />
 
 <h1 align="center">🔐 Cybersecurity Professional</h1>
 
@@ -19,7 +19,7 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: Mr. Nobody Anonymous
+name: YOUR-USERNAME
 role: Cybersecurity Practitioner & AI Explorer
 focus:
   - Offensive security / penetration testing
@@ -83,12 +83,12 @@ motto: "Security is not a product, but a process."
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-Nobody-Anonymous&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-Nobody-Anonymous&layout=compact&theme=chartreuse-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mr-Nobody-Anonymous&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
@@ -108,8 +108,8 @@ motto: "Security is not a product, but a process."
 Run it locally:
 
 ```bash
-git clone https://github.com/Mr-Nobody-Anonymous/Mr-Nobody-Anonymous.git
-cd Mr-Nobody-Anonymous/portfolio
+git clone https://github.com/YOUR-USERNAME/YOUR-USERNAME.git
+cd YOUR-USERNAME/portfolio
 python3 -m http.server 8080   # then open http://localhost:8080
 ```
 
@@ -117,13 +117,20 @@ Deploy free on **GitHub Pages**: Settings → Pages → Branch `main` → `/port
 
 ---
 
+## ⚙️ Personalize
+
+Everything points at `YOUR-USERNAME`. Replace it everywhere with one command:
+
+```bash
+grep -rl 'YOUR-USERNAME' . --exclude-dir=.git | xargs sed -i 's/YOUR-USERNAME/your-actual-username/g'
+```
+
+---
+
 ## 🤝 Connect
 
 <p align="center">
-  <a href="https://github.com/Mr-Nobody-Anonymous"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/github.com%2FYOUR--USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>⚠️ All security content here is for educational and authorized testing purposes only.</i></p>
