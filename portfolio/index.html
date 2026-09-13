@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Mr. Nobody Anonymous — Cybersecurity Portfolio</title>
+<meta name="description" content="Cybersecurity practitioner & AI explorer — penetration testing, threat research, detection engineering and web development." />
+<link rel="stylesheet" href="styles.css" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔐</text></svg>" />
+</head>
+<body>
+<canvas id="matrix"></canvas>
+<div class="scanlines"></div>
+
+<header id="nav">
+  <a class="brand" href="#home"><span class="prompt">root@nobody</span>:<span class="path">~</span>$ <span class="blink">_</span></a>
+  <nav>
+    <a href="#about">about</a>
+    <a href="#skills">skills</a>
+    <a href="#projects">projects</a>
+    <a href="#experience">experience</a>
+    <a href="#writeups">writeups</a>
+    <a href="#contact">contact</a>
+  </nav>
+  <button id="burger" aria-label="menu">☰</button>
+</header>
+
+<!-- HERO -->
+<section id="home" class="hero">
+  <div class="hero-inner">
+    <p class="kicker">// initializing secure shell…</p>
+    <h1>Mr. <span class="glow">Nobody</span> Anonymous</h1>
+    <h2 class="typed"><span id="typed"></span><span class="caret">▌</span></h2>
+    <p class="lede">
+      Cybersecurity practitioner &amp; AI explorer. I break things ethically, build the tooling that
+      catches the people who don't, and ship fast, secure web experiences.
+    </p>
+    <div class="cta">
+      <a class="btn primary" href="#projects">View Projects</a>
+      <a class="btn ghost" href="#contact">Get In Touch</a>
+    </div>
+    <div class="stats">
+      <div><b data-count="120">0</b><span>Boxes Pwned</span></div>
+      <div><b data-count="35">0</b><span>CVEs / Reports</span></div>
+      <div><b data-count="48">0</b><span>Projects Shipped</span></div>
+      <div><b data-count="6">0</b><span>Years Hacking</span></div>
+    </div>
+  </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about" class="reveal">
+  <h3 class="sec-title"><span>01.</span> About Me</h3>
+  <div class="about-grid">
+    <div>
+      <p>I'm a security engineer focused on <b>offensive security</b>, <b>detection engineering</b> and
+      <b>AI-assisted tooling</b>. My day looks like recon, exploit development, log pipelines, and
+      the occasional React build when a tool deserves a proper UI.</p>
+      <p>I believe security is a process, not a product — so most of my work is about making
+      defenders faster: automation, clean reporting, and signals that actually fire.</p>
+      <ul class="ticks">
+        <li>Web &amp; network penetration testing (OWASP Top 10, AD, cloud)</li>
+        <li>Threat research, malware triage, IOC &amp; Sigma rule authoring</li>
+        <li>Python/Go tooling, CI/CD security, container hardening</li>
+        <li>LLM red teaming: prompt injection, data exfiltration, guardrail testing</li>
+      </ul>
+    </div>
+    <pre class="terminal"><span class="c">$ whoami --verbose</span>
+name:      Mr. Nobody Anonymous
+role:      Cybersecurity Practitioner
+focus:     [offsec, detection, ai-security]
+langs:     [python, bash, go, typescript]
+os:        Kali / Arch / Debian
+location:  remote, always
+status:    <span class="ok">available for work</span>
+<span class="c">$ _</span></pre>
+  </div>
+</section>
+
+<!-- SKILLS -->
+<section id="skills" class="reveal">
+  <h3 class="sec-title"><span>02.</span> Skills &amp; Arsenal</h3>
+  <div class="cards">
+    <div class="card">
+      <h4>🛡️ Offensive Security</h4>
+      <p>Recon, exploitation, privilege escalation, post-exploitation, Active Directory attacks, red-team ops.</p>
+      <div class="bar"><i style="--w:92%"></i></div><small>92%</small>
+    </div>
+    <div class="card">
+      <h4>📡 Network Security</h4>
+      <p>Traffic analysis, IDS/IPS tuning, firewall policy, segmentation, packet-level forensics.</p>
+      <div class="bar"><i style="--w:88%"></i></div><small>88%</small>
+    </div>
+    <div class="card">
+      <h4>🧪 Malware &amp; Forensics</h4>
+      <p>Static/dynamic analysis, sandboxing, memory forensics, IOC extraction, YARA authoring.</p>
+      <div class="bar"><i style="--w:78%"></i></div><small>78%</small>
+    </div>
+    <div class="card">
+      <h4>🤖 AI / ML Security</h4>
+      <p>LLM red teaming, anomaly detection models, phishing classifiers, AI-augmented triage.</p>
+      <div class="bar"><i style="--w:84%"></i></div><small>84%</small>
+    </div>
+    <div class="card">
+      <h4>🌐 Web Development</h4>
+      <p>React, TypeScript, Node, secure API design, auth hardening, performance budgets.</p>
+      <div class="bar"><i style="--w:86%"></i></div><small>86%</small>
+    </div>
+    <div class="card">
+      <h4>☁️ Cloud &amp; DevSecOps</h4>
+      <p>AWS/Azure posture review, IaC scanning, container hardening, secrets management, CI gates.</p>
+      <div class="bar"><i style="--w:80%"></i></div><small>80%</small>
+    </div>
+  </div>
+  <div class="chips">
+    <span>Kali</span><span>Burp Suite</span><span>Nmap</span><span>Wireshark</span><span>Metasploit</span>
+    <span>Ghidra</span><span>Volatility</span><span>YARA</span><span>Sigma</span><span>Elastic</span>
+    <span>Splunk</span><span>Docker</span><span>Terraform</span><span>Python</span><span>Go</span>
+    <span>TypeScript</span><span>React</span><span>PostgreSQL</span>
+  </div>
+</section>
+
+<!-- PROJECTS -->
+<section id="projects" class="reveal">
+  <h3 class="sec-title"><span>03.</span> Projects</h3>
+  <div class="filters">
+    <button class="active" data-f="all">all</button>
+    <button data-f="security">security</button>
+    <button data-f="ai">ai</button>
+    <button data-f="web">web</button>
+  </div>
+  <div class="cards projects">
+    <article class="card proj" data-tag="security">
+      <h4>recon-forge</h4>
+      <p>Modular async recon framework — subdomain enumeration, port sweeps, tech fingerprinting and clean HTML reports in one pass.</p>
+      <div class="tags"><span>Python</span><span>asyncio</span><span>Recon</span></div>
+      <a href="#" class="link">source →</a>
+    </article>
+    <article class="card proj" data-tag="security">
+      <h4>log-sentinel</h4>
+      <p>Detection-engineering pipeline that normalizes raw logs, applies Sigma rules and pushes enriched alerts to Elastic.</p>
+      <div class="tags"><span>Python</span><span>Elastic</span><span>Sigma</span></div>
+      <a href="#" class="link">source →</a>
+    </article>
+    <article class="card proj" data-tag="ai">
+      <h4>phish-lens</h4>
+      <p>Hybrid ML + heuristic engine that scores inbound email and URLs for phishing risk with explainable features.</p>
+      <div class="tags"><span>scikit-learn</span><span>NLP</span><span>FastAPI</span></div>
+      <a href="#" class="link">source →</a>
+    </article>
+    <article class="card proj" data-tag="ai">
+      <h4>promptguard</h4>
+      <p>LLM red-teaming harness: automated prompt-injection suites, jailbreak scoring and regression reports for guardrails.</p>
+      <div class="tags"><span>LLM</span><span>Python</span><span>Security</span></div>
+      <a href="#" class="link">source →</a>
+    </article>
+    <article class="card proj" data-tag="web">
+      <h4>cipher-vault</h4>
+      <p>Zero-knowledge password vault PWA — client-side AES-GCM, Argon2 key derivation, no plaintext ever leaves the device.</p>
+      <div class="tags"><span>TypeScript</span><span>WebCrypto</span><span>PWA</span></div>
+      <a href="#" class="link">source →</a>
+    </article>
+    <article class="card proj" data-tag="web">
+      <h4>this portfolio</h4>
+      <p>Dependency-free terminal-themed site: matrix canvas, typing engine, scroll reveals and filtering in ~10KB of JS.</p>
+      <div class="tags"><span>HTML</span><span>CSS</span><span>JS</span></div>
+      <a href="#" class="link">source →</a>
+    </article>
+  </div>
+</section>
+
+<!-- EXPERIENCE -->
+<section id="experience" class="reveal">
+  <h3 class="sec-title"><span>04.</span> Experience</h3>
+  <div class="timeline">
+    <div class="tl">
+      <b>Senior Security Engineer</b><span class="when">2024 — Present</span>
+      <p>Lead offensive testing for web and cloud estates; built the internal detection pipeline that cut mean-time-to-detect by 60%.</p>
+    </div>
+    <div class="tl">
+      <b>Penetration Tester</b><span class="when">2022 — 2024</span>
+      <p>Delivered 80+ engagements across fintech and SaaS; authored remediation playbooks adopted org-wide.</p>
+    </div>
+    <div class="tl">
+      <b>SOC Analyst (Tier 2)</b><span class="when">2020 — 2022</span>
+      <p>Incident triage, threat hunting, and rule tuning that reduced false positives by 45%.</p>
+    </div>
+    <div class="tl">
+      <b>Freelance Web Developer</b><span class="when">2019 — 2020</span>
+      <p>Shipped 20+ responsive sites and internal dashboards with a security-first mindset.</p>
+    </div>
+  </div>
+  <div class="certs">
+    <span>OSCP</span><span>CEH</span><span>CompTIA Security+</span><span>eJPT</span><span>AWS Security Specialty</span>
+  </div>
+</section>
+
+<!-- WRITEUPS -->
+<section id="writeups" class="reveal">
+  <h3 class="sec-title"><span>05.</span> Writeups &amp; Research</h3>
+  <div class="cards">
+    <div class="card"><h4>Chaining SSRF to Cloud Takeover</h4><p>How an innocuous image fetcher led to IMDS credentials and full account compromise — plus the three controls that stop it.</p><small>Web · Cloud</small></div>
+    <div class="card"><h4>Detecting Living-off-the-Land Binaries</h4><p>Building high-signal Sigma rules for LOLBins without drowning the SOC in noise.</p><small>Detection</small></div>
+    <div class="card"><h4>Prompt Injection in RAG Pipelines</h4><p>Why retrieval is an untrusted input channel, and a practical defense-in-depth checklist.</p><small>AI Security</small></div>
+  </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact" class="reveal">
+  <h3 class="sec-title"><span>06.</span> Contact</h3>
+  <p class="center lede">Got a target that needs testing, a detection gap, or an idea worth building? Ping me.</p>
+  <form class="contact" onsubmit="return handleSend(event)">
+    <input required placeholder="your name" id="f-name" />
+    <input required type="email" placeholder="your@email.com" id="f-mail" />
+    <textarea required rows="5" placeholder="your message…" id="f-msg"></textarea>
+    <button class="btn primary" type="submit">Send Message</button>
+    <p id="f-out" class="out"></p>
+  </form>
+  <div class="socials">
+    <a href="https://github.com/Mr-Nobody-Anonymous">GitHub</a>
+    <a href="#">LinkedIn</a>
+    <a href="#">X</a>
+    <a href="#">Email</a>
+  </div>
+</section>
+
+<footer>
+  <p>© <span id="yr"></span> Mr. Nobody Anonymous — built with zero dependencies.</p>
+  <p class="muted">All security content is for educational and authorized testing purposes only.</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
