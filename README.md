@@ -7,6 +7,7 @@
 <br/>
 
 <a href="https://github.com/anonymoustest137"><img src="https://img.shields.io/badge/github.com%2Fanonymoustest137-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://anonymoustest137.github.io/anonymoustest137/"><img src="https://img.shields.io/badge/Live%20Portfolio-00FF41?style=for-the-badge&logo=githubpages&logoColor=black&labelColor=0d1117" /></a>
 <img src="https://img.shields.io/badge/Status-Available%20for%20work-00FF41?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Focus-Offensive%20Security-DC2626?style=for-the-badge&labelColor=0d1117" />
 
@@ -121,65 +122,6 @@ motto:      "Security is not a product, but a process."
 <img src="https://img.shields.io/badge/AWS%20Security-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
 </div>
-
----
-
-## 🖥️ The Portfolio Site
-
-A dependency-free, terminal-themed single page: **matrix rain canvas**, live typing engine,
-animated counters, filterable project grid, timeline, and a fully responsive mobile nav.
-
-```
-.
-├── README.md            # you are here
-├── portfolio/
-│   ├── index.html       # hero · about · skills · projects · experience · contact
-│   ├── styles.css       # matrix / terminal theme + scanlines
-│   └── script.js        # typing, rain, reveals, counters, filters
-└── .gitignore
-```
-
-<details>
-<summary><b>▶ Run it locally</b></summary>
-
-<br/>
-
-```bash
-git clone https://github.com/anonymoustest137/anonymoustest137.git
-cd anonymoustest137/portfolio
-python3 -m http.server 8080
-# open http://localhost:8080
-```
-
-</details>
-
-<details>
-<summary><b>▶ Deploy free on GitHub Pages</b></summary>
-
-<br/>
-
-1. Push this repo to GitHub.
-2. **Settings → Pages**
-3. Source: `Deploy from a branch` → Branch **`main`** → Folder **`/portfolio`**
-4. Live at `https://anonymoustest137.github.io/anonymoustest137/`
-
-</details>
-
-<details>
-<summary><b>▶ Make it yours (one command)</b></summary>
-
-<br/>
-
-Every name, link and stats card points at the placeholder `anonymoustest137`. Swap it globally:
-
-```bash
-grep -rl 'anonymoustest137' . --exclude-dir=.git | xargs sed -i 's/anonymoustest137/your-actual-username/g'
-```
-
-> 💡 For this README to appear on your **profile page**, the repo must be named
-> exactly the same as your GitHub username.
-
-</details>
 
 ---
 
