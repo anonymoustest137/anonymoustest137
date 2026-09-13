@@ -1,140 +1,200 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:DC2626&height=200&section=header&fontSize=42&fontColor=ffffff&animation=fadeIn&text=Hi%20%F0%9F%91%8B%2C%20I'm%20YOUR-USERNAME" alt="header" />
+<div align="center">
 
-<h1 align="center">🔐 Cybersecurity Professional</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:00C2FF,100:7C3AED&height=220&section=header&fontSize=46&fontColor=ffffff&animation=fadeIn&text=%40YOUR-USERNAME&desc=Cybersecurity%20%E2%80%A2%20AI%20%E2%80%A2%20Web&descAlignY=62&descSize=18" alt="header" />
 
-<p align="center"><b>⚡ && ⚡</b><br/><b>🤖 AI • 🌐 Web Development</b></p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=620&height=60&lines=%3E+Penetration+Tester;%3E+Network+Security+Explorer;%3E+Bug+Bounty+Hunter;%3E+Detection+Engineer;%3E+AI+Red+Teamer" alt="typing" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Penetration+Tester;Network+Security+Explorer;Ethical+Hacking;Bug+Bounty+Hunter;Security+Researcher" alt="typing" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-0ea5e9?style=for-the-badge&logo=protonvpn&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-7c3aed?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Development-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/github.com%2FYOUR--USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Status-Available%20for%20work-00FF41?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Focus-Offensive%20Security-DC2626?style=for-the-badge&labelColor=0d1117" />
+
+<img src="https://img.shields.io/badge/Cybersecurity-0ea5e9?style=flat-square&logo=protonvpn&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20%26%20ML-7c3aed?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Web%20Development-22c55e?style=flat-square&logo=vercel&logoColor=white" />
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
-
-```yaml
-name: YOUR-USERNAME
-role: Cybersecurity Practitioner & AI Explorer
-focus:
-  - Offensive security / penetration testing
-  - Threat research & detection engineering
-  - AI-assisted security tooling
-  - Modern web development
-currently_learning: [Cloud Security, Malware Analysis, LLM Red Teaming]
-motto: "Security is not a product, but a process."
+```console
+$ whoami --verbose
 ```
 
-- 🔭 Building security tooling, CTF writeups, and threat-intel automation.
-- 🌱 Deepening skills in cloud security, reverse engineering, and AI red teaming.
-- 💬 Ask me about **pentesting, network security, Python tooling, and web dev**.
-- ⚡ Fun fact: the best exploit is usually a misconfiguration.
+```yaml
+handle:     YOUR-USERNAME
+role:       Cybersecurity Practitioner & AI Explorer
+focus:      [ offensive-security, detection-engineering, ai-security ]
+languages:  [ python, bash, go, typescript, c ]
+daily_os:   Kali / Arch / Debian
+learning:   [ cloud security, malware analysis, LLM red teaming ]
+motto:      "Security is not a product, but a process."
+```
+
+> 🔭 I break things ethically, build the tooling that catches the people who don't,
+> and ship fast, secure web experiences in between.
+
+|  |  |
+|---|---|
+| 🛠️ **Building** | recon automation, detection pipelines, AI-assisted triage |
+| 🌱 **Learning** | cloud security, reverse engineering, LLM red teaming |
+| 💬 **Ask me about** | pentesting, network security, Python tooling, web dev |
+| ⚡ **Fun fact** | the best exploit is usually a misconfiguration |
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Arsenal
+
+<div align="center">
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,bash,go,ts,js,c,cpp,php&theme=dark" />
 
-**Security**
+**Security & Analysis**
 
-![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004b87?style=flat-square&logo=gnometerminal&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-EE2B24?style=flat-square&logo=snort&logoColor=white)
+<img src="https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Ghidra-FF6A00?style=for-the-badge&logo=ghidra&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+<img src="https://img.shields.io/badge/YARA-1F2937?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
 
-**Web & Infra**
+**Build & Infra**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nodejs,docker,linux,git,aws,postgres,terraform&theme=dark" />
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
+<div align="center">
+
+| 🔗 Project | What it does | Stack |
 |---|---|---|
-| **recon-forge** | Modular recon framework: subdomain enum, port sweep, tech fingerprinting, HTML reports. | Python, asyncio |
-| **log-sentinel** | Detection-engineering pipeline turning raw logs into Sigma-style alerts. | Python, Elastic |
-| **phish-lens** | ML classifier + URL heuristics that scores phishing emails in real time. | Python, scikit-learn |
-| **ctf-writeups** | Structured writeups for web, pwn, crypto and forensics challenges. | Markdown |
-| **portfolio** | This hacker-terminal themed personal site (see `/portfolio`). | HTML, CSS, JS |
+| **[recon-forge](https://github.com/YOUR-USERNAME/recon-forge)** | Modular async recon framework — subdomain enum, port sweeps, fingerprinting, HTML reports. | `Python` `asyncio` |
+| **[log-sentinel](https://github.com/YOUR-USERNAME/log-sentinel)** | Detection pipeline turning raw logs into enriched Sigma-based alerts. | `Python` `Elastic` |
+| **[phish-lens](https://github.com/YOUR-USERNAME/phish-lens)** | Hybrid ML + heuristic engine scoring phishing email and URLs, with explainable features. | `scikit-learn` `FastAPI` |
+| **[promptguard](https://github.com/YOUR-USERNAME/promptguard)** | LLM red-teaming harness: prompt-injection suites, jailbreak scoring, regression reports. | `LLM` `Python` |
+| **[cipher-vault](https://github.com/YOUR-USERNAME/cipher-vault)** | Zero-knowledge password vault PWA — AES-GCM + Argon2, nothing plaintext leaves the device. | `TypeScript` `WebCrypto` |
+| **[portfolio](https://github.com/YOUR-USERNAME/YOUR-USERNAME)** | This terminal-themed site — matrix rain, typing engine, zero dependencies. | `HTML` `CSS` `JS` |
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true" height="165" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=chartreuse-dark&hide_border=true" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=DC2626&currStreakLabel=00FF41" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" />
+
+</div>
 
 ---
 
-## 📂 Repository Structure
+## 🎖️ Experience & Certs
+
+```text
+2024 — now    Senior Security Engineer   offsec lead · detection pipeline · MTTD -60%
+2022 — 2024   Penetration Tester         80+ engagements across fintech & SaaS
+2020 — 2022   SOC Analyst (Tier 2)       threat hunting · rule tuning · FPs -45%
+2019 — 2020   Freelance Web Developer    20+ responsive sites & dashboards
+```
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OSCP-FF0000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/CEH-00A4EF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/eJPT-6E4C9E?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS%20Security-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+</div>
+
+---
+
+## 🖥️ The Portfolio Site
+
+A dependency-free, terminal-themed single page: **matrix rain canvas**, live typing engine,
+animated counters, filterable project grid, timeline, and a fully responsive mobile nav.
 
 ```
 .
-├── README.md              # This profile
-├── portfolio/             # Full portfolio website
-│   ├── index.html         # Single-page site (hero, about, skills, projects, contact)
-│   ├── styles.css         # Terminal / matrix theme
-│   └── script.js          # Typing effect, matrix rain, scroll reveal, filters
+├── README.md            # you are here
+├── portfolio/
+│   ├── index.html       # hero · about · skills · projects · experience · contact
+│   ├── styles.css       # matrix / terminal theme + scanlines
+│   └── script.js        # typing, rain, reveals, counters, filters
 └── .gitignore
 ```
 
-Run it locally:
+<details>
+<summary><b>▶ Run it locally</b></summary>
+
+<br/>
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/YOUR-USERNAME.git
 cd YOUR-USERNAME/portfolio
-python3 -m http.server 8080   # then open http://localhost:8080
+python3 -m http.server 8080
+# open http://localhost:8080
 ```
 
-Deploy free on **GitHub Pages**: Settings → Pages → Branch `main` → `/portfolio`.
+</details>
 
----
+<details>
+<summary><b>▶ Deploy free on GitHub Pages</b></summary>
 
-## ⚙️ Personalize
+<br/>
 
-Everything points at `YOUR-USERNAME`. Replace it everywhere with one command:
+1. Push this repo to GitHub.
+2. **Settings → Pages**
+3. Source: `Deploy from a branch` → Branch **`main`** → Folder **`/portfolio`**
+4. Live at `https://YOUR-USERNAME.github.io/YOUR-USERNAME/`
+
+</details>
+
+<details>
+<summary><b>▶ Make it yours (one command)</b></summary>
+
+<br/>
+
+Every name, link and stats card points at the placeholder `YOUR-USERNAME`. Swap it globally:
 
 ```bash
 grep -rl 'YOUR-USERNAME' . --exclude-dir=.git | xargs sed -i 's/YOUR-USERNAME/your-actual-username/g'
 ```
 
+> 💡 For this README to appear on your **profile page**, the repo must be named
+> exactly the same as your GitHub username.
+
+</details>
+
 ---
 
-## 🤝 Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/github.com%2FYOUR--USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+### 🤝 Let's connect
 
-<p align="center"><i>⚠️ All security content here is for educational and authorized testing purposes only.</i></p>
+<a href="https://github.com/YOUR-USERNAME">
+<img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p align="center"><img src="https://img.shields.io/badge/Portfolio-Live-00FF41?style=for-the-badge&logo=githubpages&logoColor=black" /></p>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,100:2563EB&height=120&section=footer" alt="footer" />
+`⚠️ All security content here is for educational and authorized testing purposes only.`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00C2FF,100:00FF41&height=120&section=footer" alt="footer" />
+
+</div>
