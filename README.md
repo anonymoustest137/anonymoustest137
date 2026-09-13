@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:00C2FF,100:7C3AED&height=220&section=header&fontSize=46&fontColor=ffffff&animation=fadeIn&text=%40YOUR-USERNAME&desc=Cybersecurity%20%E2%80%A2%20AI%20%E2%80%A2%20Web&descAlignY=62&descSize=18" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:00C2FF,100:7C3AED&height=220&section=header&fontSize=46&fontColor=ffffff&animation=fadeIn&text=%40anonymoustest137&desc=Cybersecurity%20%E2%80%A2%20AI%20%E2%80%A2%20Web&descAlignY=62&descSize=18" alt="header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=620&height=60&lines=%3E+Penetration+Tester;%3E+Network+Security+Explorer;%3E+Bug+Bounty+Hunter;%3E+Detection+Engineer;%3E+AI+Red+Teamer" alt="typing" />
 
 <br/>
 
-<a href="https://github.com/YOUR-USERNAME"><img src="https://img.shields.io/badge/github.com%2FYOUR--USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/anonymoustest137"><img src="https://img.shields.io/badge/github.com%2Fanonymoustest137-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Status-Available%20for%20work-00FF41?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/Focus-Offensive%20Security-DC2626?style=for-the-badge&labelColor=0d1117" />
 
@@ -23,7 +23,7 @@ $ whoami --verbose
 ```
 
 ```yaml
-handle:     YOUR-USERNAME
+handle:     anonymoustest137
 role:       Cybersecurity Practitioner & AI Explorer
 focus:      [ offensive-security, detection-engineering, ai-security ]
 languages:  [ python, bash, go, typescript, c ]
@@ -77,12 +77,12 @@ motto:      "Security is not a product, but a process."
 
 | 🔗 Project | What it does | Stack |
 |---|---|---|
-| **[recon-forge](https://github.com/YOUR-USERNAME/recon-forge)** | Modular async recon framework — subdomain enum, port sweeps, fingerprinting, HTML reports. | `Python` `asyncio` |
-| **[log-sentinel](https://github.com/YOUR-USERNAME/log-sentinel)** | Detection pipeline turning raw logs into enriched Sigma-based alerts. | `Python` `Elastic` |
-| **[phish-lens](https://github.com/YOUR-USERNAME/phish-lens)** | Hybrid ML + heuristic engine scoring phishing email and URLs, with explainable features. | `scikit-learn` `FastAPI` |
-| **[promptguard](https://github.com/YOUR-USERNAME/promptguard)** | LLM red-teaming harness: prompt-injection suites, jailbreak scoring, regression reports. | `LLM` `Python` |
-| **[cipher-vault](https://github.com/YOUR-USERNAME/cipher-vault)** | Zero-knowledge password vault PWA — AES-GCM + Argon2, nothing plaintext leaves the device. | `TypeScript` `WebCrypto` |
-| **[portfolio](https://github.com/YOUR-USERNAME/YOUR-USERNAME)** | This terminal-themed site — matrix rain, typing engine, zero dependencies. | `HTML` `CSS` `JS` |
+| **[recon-forge](https://github.com/anonymoustest137/recon-forge)** | Modular async recon framework — subdomain enum, port sweeps, fingerprinting, HTML reports. | `Python` `asyncio` |
+| **[log-sentinel](https://github.com/anonymoustest137/log-sentinel)** | Detection pipeline turning raw logs into enriched Sigma-based alerts. | `Python` `Elastic` |
+| **[phish-lens](https://github.com/anonymoustest137/phish-lens)** | Hybrid ML + heuristic engine scoring phishing email and URLs, with explainable features. | `scikit-learn` `FastAPI` |
+| **[promptguard](https://github.com/anonymoustest137/promptguard)** | LLM red-teaming harness: prompt-injection suites, jailbreak scoring, regression reports. | `LLM` `Python` |
+| **[cipher-vault](https://github.com/anonymoustest137/cipher-vault)** | Zero-knowledge password vault PWA — AES-GCM + Argon2, nothing plaintext leaves the device. | `TypeScript` `WebCrypto` |
+| **[portfolio](https://github.com/anonymoustest137/anonymoustest137)** | This terminal-themed site — matrix rain, typing engine, zero dependencies. | `HTML` `CSS` `JS` |
 
 </div>
 
@@ -92,12 +92,12 @@ motto:      "Security is not a product, but a process."
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anonymoustest137&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymoustest137&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=DC2626&currStreakLabel=00FF41" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymoustest137&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=DC2626&currStreakLabel=00FF41" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=anonymoustest137&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
 </div>
 
@@ -145,8 +145,8 @@ animated counters, filterable project grid, timeline, and a fully responsive mob
 <br/>
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-USERNAME.git
-cd YOUR-USERNAME/portfolio
+git clone https://github.com/anonymoustest137/anonymoustest137.git
+cd anonymoustest137/portfolio
 python3 -m http.server 8080
 # open http://localhost:8080
 ```
@@ -161,7 +161,7 @@ python3 -m http.server 8080
 1. Push this repo to GitHub.
 2. **Settings → Pages**
 3. Source: `Deploy from a branch` → Branch **`main`** → Folder **`/portfolio`**
-4. Live at `https://YOUR-USERNAME.github.io/YOUR-USERNAME/`
+4. Live at `https://anonymoustest137.github.io/anonymoustest137/`
 
 </details>
 
@@ -170,10 +170,10 @@ python3 -m http.server 8080
 
 <br/>
 
-Every name, link and stats card points at the placeholder `YOUR-USERNAME`. Swap it globally:
+Every name, link and stats card points at the placeholder `anonymoustest137`. Swap it globally:
 
 ```bash
-grep -rl 'YOUR-USERNAME' . --exclude-dir=.git | xargs sed -i 's/YOUR-USERNAME/your-actual-username/g'
+grep -rl 'anonymoustest137' . --exclude-dir=.git | xargs sed -i 's/anonymoustest137/your-actual-username/g'
 ```
 
 > 💡 For this README to appear on your **profile page**, the repo must be named
@@ -187,7 +187,7 @@ grep -rl 'YOUR-USERNAME' . --exclude-dir=.git | xargs sed -i 's/YOUR-USERNAME/yo
 
 ### 🤝 Let's connect
 
-<a href="https://github.com/YOUR-USERNAME">
+<a href="https://github.com/anonymoustest137">
 <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
