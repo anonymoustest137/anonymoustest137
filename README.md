@@ -93,12 +93,20 @@ motto:      "Security is not a product, but a process."
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anonymoustest137&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&icon_color=00FF41&title_color=00FF41" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonymoustest137&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41" />
+<img src="https://img.shields.io/github/followers/anonymoustest137?style=for-the-badge&logo=github&logoColor=00FF41&color=0D1117&labelColor=0D1117&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/anonymoustest137?style=for-the-badge&logo=github&logoColor=00FF41&color=0D1117&labelColor=0D1117&label=TOTAL%20STARS" />
+<img src="https://img.shields.io/github/last-commit/anonymoustest137/anonymoustest137?style=for-the-badge&logo=git&logoColor=00FF41&color=0D1117&labelColor=0D1117&label=LAST%20COMMIT" />
+<img src="https://img.shields.io/github/languages/count/anonymoustest137/anonymoustest137?style=for-the-badge&logo=codeigniter&logoColor=00FF41&color=0D1117&labelColor=0D1117&label=LANGUAGES" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymoustest137&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=DC2626&currStreakLabel=00FF41" />
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=anonymoustest137&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" />
+**Contribution Activity**
+
+<img src="https://ghchart.rshah.org/00FF41/anonymoustest137" alt="contribution graph" width="800" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anonymoustest137&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00FF41&fire=DC2626&currStreakLabel=00FF41" alt="streak" />
 
 </div>
 
