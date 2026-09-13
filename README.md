@@ -12,7 +12,7 @@
 </a>
 
 <p>
-<a href="https://anonymoustest137.github.io/anonymoustest137/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_LIVE_PORTFOLIO-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" /></a>
+<a href="https://anonymoustest137.github.io/anonymoustest137/"><img src="https://img.shields.io/badge/LIVE_PORTFOLIO-00FF41?style=for-the-badge&logoColor=black&labelColor=0d1117" /></a>
 <a href="https://github.com/anonymoustest137"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" /></a>
 <img src="https://img.shields.io/badge/Open_to_Work-00C2FF?style=for-the-badge&logoColor=black&labelColor=0d1117" />
 </p>
@@ -51,12 +51,12 @@ class Operator:
 
 <br clear="right" />
 
-|  |  |
+| | |
 |:--|:--|
-| 🔨 **Currently building** | recon automation · detection pipelines · AI-assisted triage |
-| 🌱 **Currently learning** | cloud security · reverse engineering · LLM red teaming |
-| 💬 **Ask me about** | pentesting · network security · Python tooling · web dev |
-| ⚡ **Fun fact** | the best exploit is usually a misconfiguration |
+| **Currently building** | recon automation · detection pipelines · AI-assisted triage |
+| **Currently learning** | cloud security · reverse engineering · LLM red teaming |
+| **Ask me about** | pentesting · network security · Python tooling · web dev |
+| **Fun fact** | the best exploit is usually a misconfiguration |
 
 ---
 
@@ -70,7 +70,7 @@ class Operator:
 
 <br/><br/>
 
-**⚔️ Offensive**
+**Offensive**
 
 <img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
@@ -79,7 +79,7 @@ class Operator:
 <img src="https://img.shields.io/badge/Hashcat-8A2BE2?style=flat-square&logo=hackaday&logoColor=white" />
 <img src="https://img.shields.io/badge/BloodHound-C62828?style=flat-square&logo=probot&logoColor=white" />
 
-**🛡️ Defensive & Forensics**
+**Defensive & Forensics**
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
@@ -98,11 +98,11 @@ class Operator:
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| **[🔎 recon-forge](https://github.com/anonymoustest137/recon-forge)** | Async recon framework — subdomain enum, port sweeps, fingerprinting, HTML reports | `Python` `asyncio` |
-| **[📡 log-sentinel](https://github.com/anonymoustest137/log-sentinel)** | Detection pipeline turning raw logs into enriched Sigma-based alerts | `Python` `Elastic` |
-| **[🎣 phish-lens](https://github.com/anonymoustest137/phish-lens)** | ML + heuristic engine scoring phishing mail with explainable features | `scikit-learn` `FastAPI` |
-| **[🤖 promptguard](https://github.com/anonymoustest137/promptguard)** | LLM red-team harness — injection suites, jailbreak scoring, regressions | `LLM` `Python` |
-| **[🔐 cipher-vault](https://github.com/anonymoustest137/cipher-vault)** | Zero-knowledge vault PWA — AES-GCM + Argon2, nothing leaves the device | `TypeScript` `WebCrypto` |
+| **[recon-forge](https://github.com/anonymoustest137/recon-forge)** | Async recon framework — subdomain enum, port sweeps, fingerprinting, HTML reports | `Python` `asyncio` |
+| **[log-sentinel](https://github.com/anonymoustest137/log-sentinel)** | Detection pipeline turning raw logs into enriched Sigma-based alerts | `Python` `Elastic` |
+| **[phish-lens](https://github.com/anonymoustest137/phish-lens)** | ML + heuristic engine scoring phishing mail with explainable features | `scikit-learn` `FastAPI` |
+| **[promptguard](https://github.com/anonymoustest137/promptguard)** | LLM red-team harness — injection suites, jailbreak scoring, regressions | `LLM` `Python` |
+| **[cipher-vault](https://github.com/anonymoustest137/cipher-vault)** | Zero-knowledge vault PWA — AES-GCM + Argon2, nothing leaves the device | `TypeScript` `WebCrypto` |
 
 </div>
 
@@ -121,7 +121,7 @@ class Operator:
 
 <br/><br/>
 
-**📈 Contribution Graph**
+**Contribution Graph**
 
 <img src="https://ghchart.rshah.org/00FF41/anonymoustest137" width="95%" alt="contribution chart" />
 
@@ -157,7 +157,7 @@ class Operator:
 
 <div align="center">
 
-**🐍 Contribution Snake**
+**Contribution Snake**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anonymoustest137/anonymoustest137/output/snake-dark.svg" />
